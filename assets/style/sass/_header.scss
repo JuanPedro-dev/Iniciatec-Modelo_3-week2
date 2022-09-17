@@ -1,0 +1,36 @@
+.header{
+    position: sticky;
+    z-index: 100;
+    top: 0;
+    background-color: rgb(19, 29, 87);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+
+    &--logo{
+        padding-left: 3rem;
+        max-width: 150px;
+    }
+
+    &--navbar{
+        padding-right: 4rem;
+        text-align: center;
+        ul{
+            display: flex;
+            gap:1rem;
+            li{
+                list-style: none;
+                :hover{
+                    color:rgb(251, 255, 0);
+                }
+                transition: color 400ms;
+                a{
+                    color: white;
+                }
+            }
+        }
+    }
+}
+
