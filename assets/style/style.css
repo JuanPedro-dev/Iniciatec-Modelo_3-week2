@@ -65,6 +65,7 @@ h2 {
   justify-content: space-between;
   width: 100%;
   padding: 1rem;
+  overflow: hidden;
 }
 .container--animation__1 {
   width: 50%;
