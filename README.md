@@ -1,4 +1,4 @@
-<h1 align="center"> UTN -> Iniciatec week 2</h1>
+<h1 align="center"> Iniciatec week 2</h1>
 <hr>
 
 # Diseño 3 de la semana 2<br>
